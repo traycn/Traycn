@@ -21,6 +21,7 @@ const T = {
   backend: [NodeJS, Express, ".NET", ".NET Core", EF, "EF Core", K8s, "Bash/Shell"],
   persistent_stores: ["MS SQL Server", PostgreSQL, Oracle, "Azure Blobs", "AWS S3"],
   testing: [Jest, XUnit, NUnit, Selenium, "API collections"],
+  xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services"],
   architecture: ["monolithics", "microservices", "mv-patterns"],
   techCommunities: {
                         founder_consultant: "TN",
