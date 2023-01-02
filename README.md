@@ -31,7 +31,7 @@ const T = {
 }
 ```
 
-<h3 align="center">Demo Apps</h3>
+<h3 align="center">Apps</h3>
 <p align="center">
   <a href="https://traycn.github.io/apps/react-snake/index.html" target="_blank"><kbd> Snake Game - ReactJS </kbd></a>
   <a href="https://traycn.github.io/apps/angularjs-todo/index.html" target="_blank"><kbd> TODO App - AngularJS </kbd></a>
@@ -42,9 +42,6 @@ const T = {
 
 <img src="https://media.giphy.com/media/S8qzKgooCxZikuVbtS/giphy.gif" width="20"> Always open to meeting folks, if you want to say hi feel free to reach out!
 
-<br />
-<br />
-
-📫 <b>Reach me at: </b><a href="mailto:tracyptnguyen@outlook.com">tracyptnguyen@outlook.com</a>
+📫: <a href="mailto:tracyptnguyen@outlook.com">tracyptnguyen@outlook.com</a>
 
 ---
