@@ -14,16 +14,16 @@
 ```javascript
 const T = {
   pronouns: "she" | "her",
-  languages: [Javascript, Typescript, HTML, CSS, C#, SQL, T-SQL, PSQL],
-  design: [Material Design, Bootstrap, Storybook, Styled-Components],
+  languages: [Javascript, Typescript, HTML, CSS, "C#", SQL, TSQL, PSQL],
+  design: ["Material Design", Bootstrap, Storybook, "Styled-Components"],
   front_end: [React, VueJS, Angular, AngularJS, KnockoutJS, jQuery],
-  backend: [NodeJS, Express, .NET, .NET Core, EF, EF Core, K8s, Bash/Shell],
-  persistent_stores: [MS SQL Server, PostgreSQL, Oracle, Azure Blobs, AWS S3],
-  testing: [Jest, XUnit, NUnit, Selenium, API collections],
+  backend: [NodeJS, Express, ".NET", ".NET Core", EF, "EF Core", K8s, "Bash/Shell"],
+  persistent_stores: ["MS SQL Server", PostgreSQL, Oracle, "Azure Blobs", "AWS S3"],
+  testing: [Jest, XUnit, NUnit, Selenium, "API collections"],
   architecture: ["monolithics", "microservices", "mv-patterns"],
   techCommunities: {
                         founder_consultant: "TN",
-                        mentor: "anyone open to learning together",
+                        mentor: "Anyone open to learning together",
                         volunteer: "Women Who Code"
                    }
 }
