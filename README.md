@@ -1,5 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="230">
-
+<img align="right" src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="230">
+<div align="left">
 <h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm T!</h1>
 
 <p align="center">
@@ -8,8 +8,9 @@
 
 
 <p>Software Enginner supporting my communities. 🌱
-  
-  <em>A little more about me...  </em>
+
+<em>A little more about me...  </em>
+</div>
 
 ```javascript
 const T = {
