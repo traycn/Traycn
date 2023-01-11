@@ -18,10 +18,10 @@ const T = {
   languages: [Javascript, Typescript, HTML, CSS, "C#", SQL, TSQL, PSQL],
   design: ["Material Design", Bootstrap, Storybook, "Styled-Components"],
   front_end: [React, VueJS, Angular, AngularJS, KnockoutJS, jQuery],
-  backend: [NodeJS, Express, ".NET", ".NET Core", EF, "EF Core", K8s, "Bash/Shell"],
+  backend: [NodeJS, Express, ".NET", ".NET Core", EF, "EF Core", "ADO.Net", K8s, "Bash/Shell"],
   persistent_stores: ["MS SQL Server", PostgreSQL, Oracle, "Azure Blobs", "AWS S3"],
   testing: [Jest, XUnit, NUnit, Selenium, "API collections"],
-  xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services", K8s, Terraform],
+  xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services", Terraform],
   architecture: ["monolithics", "microservices", "n-tier", "mv-patterns"],
   techCommunities: {
                         founder_consultant: "TN",
