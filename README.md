@@ -14,7 +14,7 @@
 
 ```javascript
 const T = {
-  pronouns: "she" | "her",
+  pronouns: "she" | "her", "they" | "them"
   languages: [Javascript, Typescript, HTML, CSS, "C#", SQL, TSQL, PSQL],
   design: ["Material Design", Bootstrap, Storybook, "Styled-Components"],
   front_end: [React, VueJS, Angular, AngularJS, KnockoutJS, jQuery],
@@ -27,7 +27,8 @@ const T = {
                         founder_consultant: "TN",
                         mentor: "Anyone open to learning together",
                         volunteer: "Women Who Code"
-                   }
+                   },
+  currently_learning: "Go"
 }
 ```
 
