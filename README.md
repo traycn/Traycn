@@ -17,7 +17,7 @@ const T = {
   pronouns: "she" | "her", "they" | "them"
   languages: [Javascript, Typescript, HTML, CSS, "C#", SQL, TSQL, PSQL],
   design: ["Material Design", Bootstrap, Storybook, "Styled-Components"],
-  front_end: [React, VueJS, Angular, AngularJS, KnockoutJS, jQuery],
+  front_end: [React, VueJS, Angular, AngularJS, KnockoutJS, jQuery, Webforms, Winforms, Blazor, Razor],
   backend: [NodeJS, Express, ".NET", ".NET Core", EF, "EF Core", "ADO.Net", K8s, "Bash/Shell"],
   persistent_stores: ["MS SQL Server", PostgreSQL, Oracle, "Azure Blobs", "AWS S3"],
   testing: [Jest, XUnit, NUnit, Selenium, "API collections"],
