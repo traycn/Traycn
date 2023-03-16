@@ -23,12 +23,7 @@ const T = {
   testing: [Jest, XUnit, NUnit, Selenium, "API collections"],
   xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services", Terraform],
   architecture: ["monolithics", "microservices", "n-tier", "mv-patterns"],
-  techCommunities: {
-                        founder_consultant: "TN",
-                        mentor: "Cherry on Tech. Also for anyone open to learning together.",
-                        volunteer: "Women Who Code"
-                   },
-  currently_learning: "Go"
+  currently_learning: "Go", "serverless architecture"
 }
 ```
 
