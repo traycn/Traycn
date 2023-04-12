@@ -32,6 +32,7 @@ const T = {
   <a href="https://traycn.github.io/apps/react-snake/index.html" target="_blank"><kbd> Snake Game - ReactJS </kbd></a>
   <a href="https://traycn.github.io/apps/angularjs-todo/index.html" target="_blank"><kbd> TODO App - AngularJS </kbd></a>
   <a href="https://traycn.github.io/apps/knockoutjs-connect-four/index.html" target="_blank"><kbd> Connect Four - KnockoutJS </kbd></a>
+  <a href="https://replit.com/@tdev01/Tic-Tac-Toe-game?v=1" target="_blank"><kbd> Tic-Tac-Toe Game - Python </kbd></a>
 </p>
 
 <br/>
