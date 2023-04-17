@@ -3,7 +3,7 @@
 <h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm T!</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80503C&width=435&lines=7%2B+years+of+coding+experience.;Full-stack+web+and+app+developer.;Learning+with+intentional+abandon." />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80503C&width=435&lines=7%2B+years+of+tech+experience.;Cross-functional+full-stack+dev.;Learning+with+intentional+abandon." alt="Typing SVG" />
 </p>
 
 
@@ -15,15 +15,16 @@
 ```javascript
 const T = {
   pronouns: "she" | "her", "they" | "them"
-  languages: [Javascript, Typescript, HTML, CSS, "C#", SQL, TSQL, PSQL],
+  languages: ["Javascript/Typescript", HTML, CSS, "C#", Python, SQL, TSQL, PSQL],
   design: ["Material Design", Bootstrap, Storybook, "Styled-Components"],
-  front_end: [ReactJS, VueJS, Angular, AngularJS, KnockoutJS, jQuery, Webforms, Winforms, Blazor, Razor],
-  backend: [NodeJS, ExpressJS, ".NET", ".NET Core", EF, "EF Core", "ADO.Net", K8s, "Bash/Shell"],
+  front_end: [ReactJS, VueJS, Angular, AngularJS, KnockoutJS, jQuery, "Webforms/Winforms", "Blazor/Razor"],
+  backend: [NodeJS, ExpressJS, ".NET (Core)", "EF (Core)", "ADO.Net", K8s, "Bash/Shell"],
   persistent_stores: ["MS SQL Server", PostgreSQL, Oracle, "Azure Blobs", "AWS S3"],
   testing: [Jest, XUnit, NUnit, Selenium, "API collections"],
   xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services", Terraform],
   architecture: ["monolithics", "microservices", "n-tier", "mv-patterns"],
-  currently_learning: "Go", "serverless architecture"
+  
+  current_work: "Data Analytics", "Go", "serverless architecture"
 }
 ```
 
