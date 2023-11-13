@@ -23,7 +23,7 @@ const T = {
   xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services", "Terraform", "Docker/K8s", "more.."],
   architecture: ["monolithics", "microservices", "n-tier", "mv-patterns", "more.."],
   
-  current_work: "MERN/MEAN", "Angular", "NextJS", "Go", "GraphQL"
+  current_work: "MERN/MEAN", "NextJS (SSR & SSG)", "Go", "GraphQL"
 }
 ```
 
