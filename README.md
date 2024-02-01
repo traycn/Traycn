@@ -1,13 +1,12 @@
-<img align="right" src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="200">
+
 <div align="left">
-<h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm T!</h1>
+<h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm Tracy!</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80503C&width=435&lines=7%2B+years+of+tech+experience.;Cross-functional+full-stack+dev.;Learning+with+intentional+abandon." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=7%2B+years+of+software+experience;Cross+functional+full-stack+dev;Learning+with+intentional+abandon alt="Typing SVG" />
 </p>
 
-
-<p>Software Engineer with experience in startup/enterprise environments within an array of different industries. </p>
+<p>Software Engineer helping companies in end-to-end development with experience in data management, health and wellness, financial technology, identity theft/prevention, public safety, and international standards. </p>
 
 <p>A little more about me:  </p>
 </div>
@@ -23,7 +22,7 @@ const T = {
   xaas: ["Google Cloud Platform", "Azure DevOps", "Amazon Web Services", "Terraform", "Docker/K8s", "more.."],
   architecture: ["monolithics", "microservices", "n-tier", "mv-patterns", "more.."],
   
-  current_work: "MERN/MEAN", "NextJS (SSR & SSG)", "Go", "GraphQL"
+  current_work: "Python", "NextJS (SSR & SSG)", "Go", "GraphQL"
 }
 ```
 
