@@ -1,6 +1,6 @@
 
 <div align="left">
-<h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm Tracy!</h1>
+<h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm T!</h1>
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=7%2B+years+of+software+experience;Cross+functional+full-stack+dev;Learning+with+intentional+abandon" alt="Typing SVG" />
