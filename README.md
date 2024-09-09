@@ -6,7 +6,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=8%2B+years+of+software+experience;Cross+functional+full-stack+dev;Learning+with+intentional+abandon" alt="Typing SVG" />
 </p>
 
-<p>Software Engineer helping companies in end-to-end development with experience in data management, health and wellness, financial technology, identity theft/prevention, public safety, and international standards. </p>
+<p>Software Engineer helping companies in end-to-end development with experience in data management, health and wellness, financial technology, identity theft/prevention, public safety, and standards development. </p>
 
 <p>A little more about me:  </p>
 </div>
@@ -27,7 +27,7 @@ const T = {
 <br/>
 
 
-<p>Always open to working with likeminded folks! Reach out for access to my work.</p>
+<p>Open to working with likeminded folks. Reach out for access to my work.</p>
 
 📫: <a href="mailto:tn.eng@outlook.com">tn.eng@outlook.com</a>
 
